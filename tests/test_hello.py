@@ -38,3 +38,5 @@ class TestHelloSpencer(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+#Test ob mein Trigger funktioniert
